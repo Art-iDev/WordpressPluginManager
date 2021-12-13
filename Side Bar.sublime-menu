@@ -1,0 +1,10 @@
+[
+    {"caption":"-"},
+
+    { "caption": "Toggle WP Plugin", "command": "wpm_toggle", "args": {"paths": []} },
+    { "caption": "Update WP Plugin", "command": "wpm_update_plugin", "args": {"paths": []} },
+    { "caption": "Activate WP theme", "command": "wpm_activate_theme", "args": {"paths": []} },
+
+    {"caption":"-"},
+
+]

@@ -1,0 +1,6 @@
+[
+    { "caption": "WordPress: Install Plug-in", "command": "wpm_install" },
+    { "caption": "WordPress: Update Plug-ins", "command": "wpm_update_plugins" },
+    { "caption": "WordPress: Update Core", "command": "wpm_update_core" },
+    { "caption": "WordPress: Update Themes", "command": "wpm_update_themes" }
+]
