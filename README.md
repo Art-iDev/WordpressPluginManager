@@ -1,3 +1,5 @@
+[![Donate with PayPal](https://img.shields.io/badge/paypal-Donate%20with%20paypal-blue?style=for-the-badge&logo=paypal&link=https://www.paypal.com/donate/?hosted_button_id=TZ984YJ3SJEQA)](https://www.paypal.com/donate/?hosted_button_id=TZ984YJ3SJEQA)
+
 # WordpressPluginManager
 
 Manage your WordPress installation directly from SublimeText SideBar and Command Palette. 
