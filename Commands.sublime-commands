@@ -1,6 +1,7 @@
 [
-    { "caption": "WordPress: Install Plug-in", "command": "wpm_install" },
-    { "caption": "WordPress: Update Plug-ins", "command": "wpm_update_plugins" },
-    { "caption": "WordPress: Update Core", "command": "wpm_update_core" },
-    { "caption": "WordPress: Update Themes", "command": "wpm_update_themes" }
+    { "caption": "WordPress Manager: Install Plug-in", "command": "wpm_install" },
+    { "caption": "WordPress Manager: Uninstall Plug-in", "command": "wpm_uninstall" },
+    { "caption": "WordPress Manager: Update Plug-ins", "command": "wpm_update_plugins" },
+    { "caption": "WordPress Manager: Update Core", "command": "wpm_update_core" },
+    { "caption": "WordPress Manager: Update Themes", "command": "wpm_update_themes" }
 ]
